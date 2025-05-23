@@ -48,9 +48,4 @@ These results can help educators identify students who may benefit from addition
 - Box plots for variable distribution across clusters
 - Pair plots to visualize multidimensional relationships
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/VictoriaNHernandez/student-engagement-clustering
-   cd student-engagement-clustering
